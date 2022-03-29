@@ -107,7 +107,7 @@
   .initial-section {
     padding: 0 1rem;
     margin: 2rem 0 0;
-    flex-direction: column;
+    flex-direction: column-reverse;
   }
 
   .initial-section .column-avatars {
@@ -128,7 +128,7 @@
 
   .initial-section .column-subtitle {
     margin-left: 0rem;
-    margin-top: 3rem;
+    margin-bottom: 3rem;
     justify-content: space-between;
     width: 100%;
   }
